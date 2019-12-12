@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/2. Audio Visualization Unity Tutorial/peerplay-AudioVisTutPart1-source/Scene/tutorial2_1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
