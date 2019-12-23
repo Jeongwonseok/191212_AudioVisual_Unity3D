@@ -65,6 +65,7 @@
     <Compile Include="Assets\1. Wobbly Grid\WobblyGrid.cs" />
     <Compile Include="Assets\2. Audio Visualization Unity Tutorial\peerplay-AudioVisTutPart1-source\_Scripts\AudioPeer.cs" />
     <Compile Include="Assets\2. Audio Visualization Unity Tutorial\peerplay-AudioVisTutPart1-source\_Scripts\Instantiate512cubes.cs" />
+    <Compile Include="Assets\2. Audio Visualization Unity Tutorial\peerplay-AudioVisTutPart1-source\_Scripts\LightOnAudio.cs" />
     <Compile Include="Assets\2. Audio Visualization Unity Tutorial\peerplay-AudioVisTutPart1-source\_Scripts\ParamCube.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jws/Desktop/Audio_Visual_1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
